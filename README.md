@@ -40,3 +40,22 @@ HEAD is now at 6473351 snap7: update 1.4.0 bottle.
 ==> Next steps
 Run `brew help` to get started
 
+nikunj@atom:~$ brew install git
+==> Downloading https://homebrew.bintray.com/bottles/git-2.5.1.yosemite.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring git-2.5.1.yosemite.bottle.tar.gz
+==> Caveats
+The OS X keychain credential helper has been installed to:
+  /usr/local/bin/git-credential-osxkeychain
+
+The "contrib" directory has been installed to:
+  /usr/local/share/git-core/contrib
+
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completion has been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/git/2.5.1: 1385 files, 32M
+
